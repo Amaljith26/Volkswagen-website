@@ -1,0 +1,56 @@
+
+
+.Nav-bar{
+    background-color: brown;
+}
+
+.Nav-bar{
+    width: 100%;
+    background-color: #080707;
+    overflow: auto;
+}
+.Nav-bar a {
+    float: left;
+    text-align: center;
+    padding: 12px;
+    color: white;
+    text-decoration:solid;
+    font-size: 17px;
+  }
+
+  .Nav-bar a:hover {
+    background-color: #282424;
+  }
+
+  @media screen and (max-width: 500px) {
+    .Nav-bar a {
+      float: none;
+      display: block;
+    }
+  }
+  
+  .pictures{
+    height: 380px;
+    width: 400px;
+  }
+  
+  .pictures2{
+    height: 470px;
+    width:450px; 
+  }
+
+ .pictures3{
+  height:380 px;
+  width:400px;
+ }
+ 
+.button1{
+  background-color: aliceblue;
+  color: #080707;
+
+}
+
+.button1:hover{
+  background-color: rgb(9, 6, 2);
+  color:aliceblue
+}
